@@ -29,29 +29,29 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'Habitual',
+    info: 'A habit tracker SPA that allows users to track their progress, set frequency by week, and manage their goals for personal growth.',
+    info2: 'Utilizes React.js, Redux, Rails, SASS, CSS.',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jordles113/habitual-frontend', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'Get-Together',
+    info: 'Event Planning SPA that allows for creation of events and associated get-togethers or activities.',
+    info2: 'Implements vanilla Javascript with a Rails API and Bootstrap',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jordles113/get-together-frontend', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'Cinephile',
+    info: 'Cinephile is a movie database application using Rails. Users can create watch lists, and search for movies, and review content.',
+    info2: 'Uses Rails and Bootstrap with the OMDB API',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jordles113/cinephile', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'jordanromero1390@gmail.com',
 };
 
 // FOOTER DATA
@@ -68,27 +68,27 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/jordanr113',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'medium',
+      url: 'https://jordan-t-romero.medium.com/',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/jordan-t-romero/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/jordles113',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
