@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'habitual.png',
     title: 'Habitual',
     info: 'A habit tracker SPA that allows users to track their progress, set frequency by week, and manage their goals for personal growth.',
     info2: 'Utilizes React.js, Redux, Rails, SASS, CSS.',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'get-together.png',
     title: 'Get-Together',
     info: 'Event Planning SPA that allows for creation of events and associated get-togethers or activities.',
     info2: 'Implements vanilla Javascript with a Rails API and Bootstrap',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'Cinephile.png',
     title: 'Cinephile',
     info: 'Cinephile is a movie database application using Rails. Users can create watch lists, and search for movies, and review content.',
     info2: 'Uses Rails and Bootstrap with the OMDB API',
