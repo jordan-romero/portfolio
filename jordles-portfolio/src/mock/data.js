@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Get-Together',
     info: 'Event Planning SPA that allows for creation of events and associated get-togethers or activities.',
     info2: 'Implements vanilla Javascript with a Rails API and Bootstrap',
-    url: '',
+    url: 'https://jordles113.github.io/get-together-frontend/#',
     repo: 'https://github.com/jordles113/get-together-frontend', // if no repo, the button will not show up
   },
   {
