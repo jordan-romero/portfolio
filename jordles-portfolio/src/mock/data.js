@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Habitual',
     info: 'A habit tracker SPA that allows users to track their progress, set frequency by week, and manage their goals for personal growth.',
     info2: 'Utilizes React.js, Redux, Rails, SASS, CSS.',
-    url: '',
+    url: 'https://habitual-frontend.herokuapp.com/',
     repo: 'https://github.com/jordles113/habitual-frontend', // if no repo, the button will not show up
   },
   {
