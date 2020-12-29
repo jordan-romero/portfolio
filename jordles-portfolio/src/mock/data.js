@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://docs.google.com/document/d/1_aRGytxp0SVRVtSgKkfmUgbmXqN348sa3trcvu1cxE8/edit', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/e/2PACX-1vQDAc0kirqhQN-rUlePUBwL2En0NyMYt3yGHNUAEMG7yRx561rf4KfNZ3o1CnmWhricqDbIK01AFx83/pub', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
